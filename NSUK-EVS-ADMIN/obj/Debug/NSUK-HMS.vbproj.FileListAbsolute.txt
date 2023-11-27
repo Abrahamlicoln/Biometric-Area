@@ -1,0 +1,96 @@
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\NSUK-HMS.exe.config
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\NSUK-HMS.exe
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\NSUK-HMS.pdb
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\NSUK-HMS.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\Guna.UI.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK_HMS.Form1.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK_HMS.Resources.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK-HMS.vbproj.GenerateResource.cache
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK-HMS.vbproj.CoreCompileInputs.cache
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK-HMS.vbproj.CopyComplete
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK-HMS.exe
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK-HMS.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK-HMS.pdb
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\Guna.UI2.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK_HMS.login.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK_HMS.main_enrollment.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK-HMS.vbprojAssemblyReference.cache
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\DPFPDevNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\DPFPEngNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\DPFPGuiNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\DPFPShrNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\DPFPVerNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\obj\Debug\NSUK_HMS.Enrollment.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\MySql.Data.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK-HMS.vbprojAssemblyReference.cache
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK_HMS.Form1.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK_HMS.login.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK_HMS.main_enrollment.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK_HMS.Resources.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK-HMS.vbproj.GenerateResource.cache
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK-HMS.vbproj.CoreCompileInputs.cache
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK-HMS.exe
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK-HMS.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK-HMS.pdb
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\NSUK-HMS.exe.config
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\NSUK-HMS.exe
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\NSUK-HMS.pdb
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\NSUK-HMS.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\DPFPDevNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\DPFPEngNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\DPFPGuiNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\DPFPShrNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\DPFPVerNET.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\Guna.UI.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\Guna.UI2.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\MySql.Data.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK-HMS.vbproj.CopyComplete
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK_HMS.payment_status.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\obj\Debug\NSUK_HMS.check_room.resources
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Buffers.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Memory.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Buffers.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Memory.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MY-LIFE\Desktop\nsuk-hms\NSUK-HMS-ADMIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK-HMS.vbprojAssemblyReference.cache
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK-HMS.exe
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK-HMS.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK-HMS.pdb
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\NSUK-HMS.exe.config
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\NSUK-HMS.exe
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\NSUK-HMS.pdb
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\NSUK-HMS.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\DPFPDevNET.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\DPFPEngNET.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\DPFPGuiNET.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\DPFPShrNET.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\DPFPVerNET.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\Guna.UI2.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Buffers.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Memory.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Buffers.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Memory.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK_HMS.check_room.resources
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK_HMS.Form1.resources
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK_HMS.login.resources
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK_HMS.main_enrollment.resources
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK_HMS.Resources.resources
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK-HMS.vbproj.GenerateResource.cache
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK-HMS.vbproj.CoreCompileInputs.cache
+C:\Users\MY LIFE\Desktop\nsuk-evs\NSUK-EVS-ADMIN\obj\Debug\NSUK-HMS.vbproj.CopyComplete
